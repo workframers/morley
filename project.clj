@@ -1,4 +1,4 @@
-(defproject com.workframe/artemis "0.1.0-SNAPSHOT"
+(defproject com.workframe/rf-utils "0.1.0-SNAPSHOT"
   :description "A Re-frame utility library"
   :url         "https://github.com/workframers/rf-utils"
   :license     {:name "Apache License, Version 2.0"
