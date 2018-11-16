@@ -1,4 +1,4 @@
-(ns rf-utils.core
+(ns morley.core
   "Helpers to cut-down on re-frame boilerplate, while also building up a
   performant map-centric signal graph. Most of this from https://goo.gl/Ydqbc8."
   (:refer-clojure :exclude [get get-in assoc assoc-in update update-in dissoc])
