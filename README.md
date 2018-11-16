@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/workframers/morley/master/resources/morley.png">
+<img src="https://raw.githubusercontent.com/workframers/morley/master/resources/morley.png" width="300">
 
 [![Clojars Project](https://img.shields.io/clojars/v/com.workframe/morley.svg)](https://clojars.org/com.workframe/morley)
 
